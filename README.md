@@ -1,2 +1,2 @@
-Google hompage project
-file:///C:/Users/USER/Desktop/the_odin_project/index.html
+Google hompage
+http://www.theodinproject.com/web-development-101/html-css
