@@ -1,2 +1,2 @@
-# google_hompage 
-1st step to rich
+Google hompage project
+file:///C:/Users/USER/Desktop/the_odin_project/index.html
